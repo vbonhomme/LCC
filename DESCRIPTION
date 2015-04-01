@@ -1,0 +1,17 @@
+Package: LCC
+Type: Package
+Title: Large Charcoal Count
+Version: 1.0
+Date: 2015-04-01
+Author: Vincent Bonhomme, Cecile Remy
+Maintainer: Vincent Bonhomme <bonhomme.vincent@gmail.com>
+Description: Large Charcoal Count method (long)
+License: GPL-2 | GPL-3
+Roxygen: list(wrap = FALSE)
+URL: https://github.com/vbonhomme/LCC
+BugReports: https://github.com/vbonhomme/LCC
+Depends:
+    R(>= 3.1)
+Imports:
+    dplyr
+

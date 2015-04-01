@@ -1,0 +1,16 @@
+{
+    "contents" : "Package: Momocs\nType: Package\nTitle: Morphometrics using R\nVersion: 0.99\nDate: 2014-11-01\nAuthor: Vincent Bonhomme, Sandrine Picq and Julien Claude\nMaintainer: Vincent Bonhomme <bonhomme.vincent@gmail.com>\nDescription: Momocs is an R package which aims to provide a complete and\n    convenient toolkit for morphometrics. It is intended for scientists\n    interested in describing quantitatively the shape, and its variations, of\n    the objects they study. In the last decade, R has become the open-source\n    lingua franca for statistics, and morphometrics known its so-called\n    'revolution'. Nevertheless, morphometric analyses still have to be carried\n    out using various software packages, for which source code is mostly\n    unavailable or copyrighted. Moreover, existing software packages cannot be\n    extended and their bugs are hard to detect and thus correct. This situation\n    is detrimental to morphometrics; time is wasted, analyses are restricted to\n    available methods, and last but not least, are poorly reproducible. This\n    impedes collaborative effort both in software development and in\n    morphometric studies. By gathering the common morphometric approaches in an\n    open-source environment and welcoming contributions, Momocs is an\n    (work-in-progress) attempt to solve this twofold problem and to push\n    morphometrics one step further. It hinges on the core functions published\n    in the book Morphometrics using R (Claude, 2008), but has been further\n    extended to allow other shape description systems. So far, configurations\n    of landmarks, outlines and open outline analyses, along with some\n    facilities for traditional morphometrics have been implemented. Prior to\n    analysis, Momocs can be used to acquire and manipulate data or to\n    import/export from/to other formats. Momocs also has the facility for a\n    wide range of multivariate analyses and production of the companion\n    graphics. Thus a researcher will find that just a few lines of code will\n    provide initial results, but the methods implemented can be finely tuned\n    and extended according to the user's needs.\nLicense: GPL-2 | GPL-3\nRoxygen: list(wrap = FALSE)\nURL: http://www.vincentbonhomme.fr/Momocs\nBugReports: https://github.com/vbonhomme/Momocs\nDepends:\n    R(>= 3.1)\nImports:\n    ape,\n    dplyr,\n    graphics,\n    geometry,\n    ggplot2,\n    jpeg,\n    MASS,\n    plyr,\n    reshape2,\n    sp,\n    utils\nSuggests:\n    knitr\nVignetteBuilder: knitr\n",
+    "created" : 1427888921763.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2245562808",
+    "id" : "EBEABE48",
+    "lastKnownWriteTime" : 1424270378,
+    "path" : "~/Research/Momocs/DESCRIPTION",
+    "project_path" : null,
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "dcf"
+}

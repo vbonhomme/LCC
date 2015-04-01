@@ -1,0 +1,16 @@
+{
+    "contents" : "Package: LCC\nType: Package\nTitle: Large Charcoal Count\nVersion: 1.0\nDate: 2015-04-01\nAuthor: Vincent Bonhomme, Cecile Remy\nMaintainer: Vincent Bonhomme <bonhomme.vincent@gmail.com>\nDescription: Large Charcoal Count method (long)\nLicense: GPL-2 | GPL-3\nRoxygen: list(wrap = FALSE)\nURL: https://github.com/vbonhomme/LCC\nBugReports: https://github.com/vbonhomme/LCC\nDepends:\n    R(>= 3.1)\nImports:\n    dplyr\n\n",
+    "created" : 1427888932721.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3832117381",
+    "id" : "4F873305",
+    "lastKnownWriteTime" : 1427888935,
+    "path" : "~/Research/LCC/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "dcf"
+}

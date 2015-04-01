@@ -1,0 +1,16 @@
+{
+    "contents" : "##### Package documentation and NAMESPACE import\n\n#' LCC (Large Charcoal Count)\n#'\n#' Here comes the Description\n#'\n#' @docType package\n#' @name LCC_package\n#' @import dplyr\nNULL\n\n# prevents \"no visible binding for global variable\"\n# http://stackoverflow.com/questions/9439256/how-can-i-handle-r-cmd-check-no-visible-binding-for-global-variable-notes-when\nglobalVariables(c(\n  \"Seedle\",\n  \"Age_calBP\",\n  \"Area\",\n  \"Count\",\n  \"cpeak\",\n  \"FRI\",\n  \"pic\",\n  \"Pic\",\n  \"Sarea\",\n  \"SdlArea\",\n  \"SdlCounts\",\n  \"Se.area.inf\",\n  \"Se.area.sup\",\n  \"Sinf\",\n  \"Smpl\",\n  \"Ssup\",\n  \"Suminf\",\n  \"Sumsup\",\n  \"thresh\"))\n",
+    "created" : 1427885615942.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4190216664",
+    "id" : "477D1A08",
+    "lastKnownWriteTime" : 1427889360,
+    "path" : "~/Research/LCC/R/LCC_package.R",
+    "project_path" : "R/LCC_package.R",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
