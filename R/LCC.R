@@ -29,8 +29,8 @@ rm(list = ls())
   # imports data files #########################################################
   FireA   <<- read.csv("FireA.csv", header=TRUE, sep=";")
   FireAsc <<- read.csv("FireAsc.csv", header=TRUE, sep=";")
-  FireC   <<- read.csv("FireA.csv", header=TRUE, sep=";")
-  FireCsc <<- read.csv("FireAsc.csv", header=TRUE, sep=";")
+  FireC   <<- read.csv("FireC.csv", header=TRUE, sep=";")
+  FireCsc <<- read.csv("FireCsc.csv", header=TRUE, sep=";")
   Smpl    <<- read.csv("Smpl.csv",  header=TRUE, sep=";")
   Seedle  <<- read.csv("Seedle.csv", header=TRUE, sep=";")
 
